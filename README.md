@@ -21,22 +21,24 @@ TranGPT 是一款面向 跨境业务 / 客服团队 / 营销增长团队 的
 
 ## 🌍 核心功能
 💬 多平台聊天聚合（Unified Inbox）
-支持平台：
-WhatsApp / Telegram / LINE / Facebook / Zalo
+支持平台：WhatsApp / Telegram / LINE / Facebook / Zalo等
+
 所有消息统一收件箱
+
 多账号集中管理
-团队协作：
-客服分配
-会话接管
-标签体系
+
+团队协作：客服分配，会话接管，标签体系
 
 👉 告别切换软件，一个界面处理所有客户
 
 ## 🌐 实时 AI 翻译（AI Translation Engine）
 收到消息 👉 自动翻译
+
 发送消息 👉 自动转为对方语言
+
 支持语言：
 中文 / 英文 / 东南亚语言（泰语 / 越南语 / 印尼语等）
+
 支持接入：
 自定义 LLM（本地 / OpenAI / 私有模型）
 
@@ -46,6 +48,7 @@ WhatsApp / Telegram / LINE / Facebook / Zalo
 自动回复：
 关键词规则
 AI 智能回复
+
 AI 能力：
 对话摘要
 智能推荐回复
@@ -91,15 +94,22 @@ Messaging:
 
 ## 🚀 产品优势（Why TranGPT）
 ✅ 多平台统一（减少工具切换）
+
 ✅ 实时 AI 翻译（降低语言成本）
+
 ✅ 自动化客服（降低人力成本）
+
 ✅ SCRM 数据沉淀（提升复购与转化）
+
 ✅ 支持私有化部署（数据安全）
 
 ## 🔐 部署方式（Deployment）
 ☁️ SaaS（云端）
+
 🏢 私有化部署（企业内部）
+
 🧠 支持本地 AI 模型
+
 🛣️ Roadmap
 
 ## AI 客户意图识别
